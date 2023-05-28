@@ -1,0 +1,40 @@
+.navbar {
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.navbar-logo {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.nav-item {
+    flex-basis: calc(100% / 6);
+    margin-right: 10px;
+}
+
+.nav-item a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    transition: color 0.3s;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+    color: #6DB7FB;
+}

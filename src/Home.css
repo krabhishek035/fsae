@@ -1,0 +1,342 @@
+.Home {
+    background: url("../public/background.png");
+    background-size: 100% 100%;
+    position: absolute;
+    width: 1764px;
+    height: 1156.4px;
+    left: -18px;
+    top: 0px;
+
+}
+
+.logo {
+    /* background: url("../public/logo.jpg"); */
+    position: absolute;
+    width: 429.58px;
+    height: 496.09px;
+    left: 158px;
+    top: 291px;
+
+}
+
+.logo img {
+    background: transparent;
+    width: 429.58px;
+    height: 496.09px;
+}
+
+.line {
+    position: absolute;
+    height: 518px;
+    width: 0px;
+    left: 705px;
+    top: 287px;
+    border: 7px solid white;
+}
+
+.fsae {
+    position: absolute;
+    width: 880px;
+    height: 298px;
+    left: 665px;
+    top: 390px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+/******************************    About us *****************************/
+
+.aboutUs {
+    position: absolute;
+    width: 354px;
+    height: 53px;
+    left: 700px;
+    top: 1198px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    /* line-height: 53px; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #00B2FF;
+}
+
+.aboutUs:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.line1 {
+    position: absolute;
+    width: 145px;
+    height: 0px;
+    left: 676px;
+    top: 1197px;
+
+    border: 3px solid #000000;
+}
+
+.line2 {
+    position: absolute;
+    width: 0px;
+    height: 44px;
+    left: 676px;
+    top: 1197px;
+
+    border: 3px solid #000000;
+    /* transform: rotate(90deg); */
+}
+
+.line3 {
+
+    position: absolute;
+    width: 0px;
+    height: 44px;
+    left: 893px;
+    top: 1202px;
+
+    border: 3px solid #000000;
+    /* transform: rotate(90deg); */
+}
+
+.line4 {
+
+    position: absolute;
+    width: 145px;
+    height: 0px;
+    left: 748px;
+    top: 1246px;
+
+    border: 3px solid #000000;
+
+}
+
+.logoBlue {
+    position: absolute;
+    width: 325px;
+    height: 375.32px;
+    left: 238px;
+    top: 1297px;
+}
+
+.info {
+
+    position: absolute;
+    width: 911px;
+    height: 539px;
+    left: 42px;
+    top: 1696px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #000000;
+}
+
+.video {
+
+    position: absolute;
+    width: 768px;
+    height: 414px;
+    left: 990px;
+    top: 1419px;
+    background: #000000;
+}
+
+.crew {
+    position: absolute;
+    width: 1734px;
+    height: 913px;
+    left: 0px;
+    top: 2247px;
+    background: url("../public/crew.jpg");
+    mix-blend-mode: darken;
+}
+
+.crewHeading {
+    position: absolute;
+    width: 499px;
+    height: 133px;
+    left: 618px;
+    top: 2571px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 134px;
+    line-height: 162px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+/* Our vision */
+
+.ourVision {
+    position: absolute;
+    width: 360px;
+    height: 82px;
+    left: 740px;
+    top: 3184px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 53px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #00B2FF;
+}
+
+.ourVision:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.line5 {
+    position: absolute;
+    width: 145px;
+    height: 0px;
+    left: 725px;
+    top: 3237px;
+
+    border: 3px solid #000000;
+
+}
+
+.line6 {
+    position: absolute;
+    width: 0px;
+    height: 58px;
+    left: 725px;
+    top: 3237px;
+
+    border: 3px solid #000000;
+}
+
+.line7 {
+    position: absolute;
+    width: 104px;
+    height: 0px;
+    left: 855px;
+    top: 3295px;
+
+    border: 3px solid #000000;
+}
+
+.line8 {
+    position: absolute;
+    width: 0px;
+    height: 58px;
+    left: 959px;
+    top: 3237px;
+
+    border: 3px solid #000000;
+}
+
+.world {
+    position: absolute;
+    width: 211px;
+    height: 226px;
+    left: 131px;
+    top: 3494px;
+    background: url("../public/world.jpg");
+}
+
+.world h1 {
+
+    position: absolute;
+    width: 338px;
+    height: 61px;
+    left: -75px;
+    top: 245px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #00B2FF;
+
+}
+
+.sus {
+    position: absolute;
+    width: 242px;
+    height: 278px;
+    left: 699px;
+    top: 3442px;
+
+    background: url("../public/Sustainable\ Development.jpg");
+}
+
+.sus h1 {
+
+    position: absolute;
+    width: 459px;
+    height: 61px;
+    left: -70px;
+    top: 270px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #00B2FF;
+
+}
+
+.car {
+    position: absolute;
+    width: 245px;
+    height: 245px;
+    left: 1341px;
+    top: 3458px;
+
+    background: url("../public/car.jpg");
+}
+
+.car h1 {
+    position: absolute;
+    width: 459px;
+    height: 61px;
+    left: -25px;
+    top: 250px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #00B2FF;
+
+}
